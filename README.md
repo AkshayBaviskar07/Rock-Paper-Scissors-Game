@@ -1,1 +1,3 @@
-# You can play live [here](duel-hands.netlify.app/)! 
+# Duel Hands
+
+You can play it live 👉 [here](https://duel-hands.netlify.app/) 🎮
